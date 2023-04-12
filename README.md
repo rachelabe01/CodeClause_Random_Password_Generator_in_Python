@@ -1,4 +1,4 @@
-# This is Task 1 of Codeclause's internship program for the position of Python intern
+## This is Task 1 of Codeclause's internship program for the position of Python intern
 # Random Password Generator
 This is a Python program that generates random passwords based on user input. It allows the user to choose which types of characters to include (uppercase, lowercase, digits, and/or punctuation) and the length of the password.
 
