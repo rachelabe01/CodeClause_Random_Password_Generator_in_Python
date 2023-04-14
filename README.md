@@ -5,3 +5,10 @@ This is a Python program that generates random passwords based on user input. It
 # How to Use
 To use this program, run the password_generator.py file in Python. You will be prompted to select which types of characters to include and the length of the password. Once you click "Generate", a random password will be displayed on the screen.
 
+# Requirements
+* Python 3
+* tkinter library
+
+# Credits
+This project was created as part of an internship with CodeClause.
+
